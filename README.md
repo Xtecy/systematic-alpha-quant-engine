@@ -15,6 +15,7 @@ Through rigorous multi-dimensional parameter grid optimization over a **2.2-year
 | **Trade Expectancy (EV)** | **$8.25 per execution** | Positive Mathematical Expectancy |
 | **Sample Size** | **357 Closed Round-Trip Trades** | > 100 (Statistically Significant) |
 | **Max Peak-to-Trough Drawdown** | **$743.78** (Fixed) / **$851.54** (Compounding) | < $1,000.00 (Prop Firm Hard Buffer) |
+<img width="853" height="432" alt="image" src="https://github.com/user-attachments/assets/21c58ad1-df4e-420f-943d-1d42fedb91fd" />
 
 ---
 
