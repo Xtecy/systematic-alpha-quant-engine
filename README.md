@@ -19,7 +19,7 @@ Through rigorous multi-dimensional parameter grid optimization over a **2.2-year
 <p align="center">2.2 Years Backtest Result</p>
 
 <img width="912" height="387" alt="image" src="https://github.com/user-attachments/assets/84634894-5794-43fc-87d4-97507119dd75" />
-<p align="center">Balance Graph ($10,000 initial balance</p>
+<p align="center">Balance Graph ($10,000 initial balance)</p>
 
 
 ---
