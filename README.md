@@ -16,6 +16,11 @@ Through rigorous multi-dimensional parameter grid optimization over a **2.2-year
 | **Sample Size** | **357 Closed Round-Trip Trades** | > 100 (Statistically Significant) |
 | **Max Peak-to-Trough Drawdown** | **$743.78** (Fixed) / **$851.54** (Compounding) | < $1,000.00 (Prop Firm Hard Buffer) |
 <img width="853" height="432" alt="image" src="https://github.com/user-attachments/assets/21c58ad1-df4e-420f-943d-1d42fedb91fd" />
+<p align="center">2.2 Years Backtest Result</p>
+
+<img width="912" height="387" alt="image" src="https://github.com/user-attachments/assets/84634894-5794-43fc-87d4-97507119dd75" />
+<p align="center">Balance Graph ($10,000 initial balance</p>
+
 
 ---
 
