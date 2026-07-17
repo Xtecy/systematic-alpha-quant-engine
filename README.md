@@ -1,7 +1,3 @@
-Here is a complete, professional, and visually striking `README.md` custom-tailored for your GitHub repository. It perfectly frames the quantitative depth of your project to anyone looking at your profile.
-
----
-
 # 🤖 Systematic Alpha: Automated Quant Execution Engine & Risk Model
 
 An institutional-grade algorithmic trading implementation and quantitative risk framework engineered for automated breakout trading on the Nasdaq 100 Index ($US100$). The system integrates high-frequency execution architecture in MQL5 with an end-to-end Python stress-testing pipeline to maximize statistical expectancy while enforcing absolute capital preservation.
