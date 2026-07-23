@@ -21,6 +21,9 @@ Through rigorous multi-dimensional parameter grid optimization over a **2.2-year
 <img width="912" height="387" alt="image" src="https://github.com/user-attachments/assets/84634894-5794-43fc-87d4-97507119dd75" />
 <p align="center">Balance Graph ($10,000 initial balance)</p>
 
+<img width="3570" height="1770" alt="output" src="https://github.com/user-attachments/assets/3e26e79d-4c43-4e86-9854-c2de58892cc8" />
+<p align="center">Monte Carlo Simulation with Max DD of 10%</p>
+
 
 ---
 
